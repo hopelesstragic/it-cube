@@ -1,11 +1,5 @@
-print(scv_host.cfg)
-import time
-sleep 0.5
-print(loading.)
-sleep 0.5
-print(loading..)
-sleep 0.5
-print(loading...)
-sleep 0.5
-print(loading.)
-c
+num = int(input(Введите любое число))
+if -1<= num <= 17:
+   print("Ваше число  не пренадлжит промежутку")
+else:
+    print("Ваше число пренадлжит промежутку")
