@@ -1,3 +1,3 @@
-tg:ilyanocap\n
+tg:ilyanocap
 vk:shawtydrugs
 
